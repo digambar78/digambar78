@@ -1,67 +1,21 @@
-# 👋 Hi there, I'm Digambar Singh!
+![logo](https://github.com/verma-2004/verma-2004/blob/main/GITHUB%20BANNER.png)
+<h1 align="center">Hi 👋, I'm DIGAMBAR SINGH</h1>
+<h3 align="center">An aspiring Data Scientist from India</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-🎓 **Computer Science & Engineering Student**  
-📍 Mathura, Uttar Pradesh | 📚 Lovely Professional University (CGPA: 8.41)  
-💻 Passionate about Data Structures, Algorithms, Web Development, and Data Visualization
 
----
 
-## 🔧 Skills & Tools
+•⁠  ⁠🌱 I’m currently learning *POWERBI and SQL*
 
-### 🧠 Languages  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+•⁠  ⁠📫 How to reach me *abhinavverma@gmail.com*
 
-### 🛠️ Tools & Platforms  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/digambarsingh1477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav5648" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abhinav__verma" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/digambarsingh641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="#" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/digambarsingh1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="#" height="30" width="40" /></a>
+</p>
 
----
-
-## 🚀 Projects
-
-### 🛍️ [Shoe-Savvy – E-commerce Website](https://shoe-savvy-react.vercel.app/)
-HTML, CSS, JavaScript  
-Responsive shopping platform with:
-- Dynamic product listing
-- Filter & cart functionality
-- Interactive UI with animations
-
-### 📊 Covid-19 Dashboard (Tableau, MySQL)
-- State-wise case trends, vaccination analysis, and demographic insights
-- Geospatial visualizations using shapefiles
-
-### 💼 Sales Store Dashboard (Excel, MySQL)
-- Interactive dashboards with PivotTables, Charts, and Slicers
-- Actionable insights from raw sales data
-
----
-
-## 📚 Certifications
-
-- ✅ Data Structures and Algorithms – *Linux Socials* (March 2024)  
-- ✅ Data Visualisation – *Tata Group (Forage)*  
-- ✅ Prompt Engineering for Chat-GPT – *Coursera*
-
----
-
-## 🛠️ Summer Training (June–July 2024)
-**Linux Socials – Data Structures & Algorithms**
-- Mastered arrays, linked lists, trees, graphs, DP, and backtracking
-- Solved 250+ coding problems (LeetCode, GeeksforGeeks)
-- Focused on writing efficient, optimized code with time/space analysis
-
----
-
-## 📬 Get in Touch
-
-- 📧 Email: digambarsingh6458@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/digambarsingh1477)
-
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
