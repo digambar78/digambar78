@@ -8,9 +8,19 @@
 
 ## 🔧 Skills & Tools
 
-- **Languages:** C++, Python, R, HTML, CSS, JavaScript  
-- **Tools & Platforms:** MySQL, MS Excel, Tableau, R Studio  
-- **Core Skills:** Problem Solving, Data Structures & Algorithms, Communication
+### 🧠 Languages  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🛠️ Tools & Platforms  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ---
 
@@ -55,9 +65,3 @@ Responsive shopping platform with:
 - 🔗 [LinkedIn](https://linkedin.com/in/digambarsingh1477)
 
 ---
-
-![Digambar's GitHub stats](https://github-readme-stats.vercel.app/api?username=digambarsingh6458&show_icons=true&theme=radical)
-
-<!-- Optional: add a visitor badge -->
-<!-- ![Visitor Badge](https://komarev.com/ghpvc/?username=digambarsingh6458&style=flat-square) -->
-
